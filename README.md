@@ -1,4 +1,4 @@
-# NO-1 Fitting Poisson  distribution
+# EXP NO-1 Fitting Poisson  distribution
 ## DATE:
 # Aim : 
 To fit poisson distribution for the arrival of objects per minute from the feeder
