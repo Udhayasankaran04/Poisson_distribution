@@ -1,10 +1,9 @@
-# Fitting Poisson  distribution
+# NO-1 Fitting Poisson  distribution
+## DATE:
 # Aim : 
-
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
 # Software required :  
-
 Python and Visual component tool
 
 # Theory:
